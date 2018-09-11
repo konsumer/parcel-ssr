@@ -1,8 +1,10 @@
-module.exports = [
-  '/',
-  '/about',
-  '/terms',
-  '/features',
-  '/stories',
-  '/pricing'
-]
+module.exports = {
+  routes: [
+    '/',
+    '/about',
+    '/terms',
+    '/features',
+    '/stories',
+    '/pricing'
+  ]
+}
